@@ -1,2 +1,2 @@
 # AdaMRA
-This is the official code for AdaMRA
+This is the official code for Adaptive Multi-Resolution Attention with Linear Complexity. Coming soon...
